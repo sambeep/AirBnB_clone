@@ -1,4 +1,4 @@
-First step: Write a command interpreter to manage your AirBnB objects.
+# First step: Write a command interpreter to manage your AirBnB objects.
 This is the first step towards building your first full web application: the AirBnB clone. This first step is very important because you will use what you build during this project with all other following projects: HTML/CSS templating, database storage, API, front-end integration…
 
 Each task is linked and will help you to:
@@ -40,6 +40,5 @@ What is an UUID
 What is *args and how to use it
 What is **kwargs and how to use it
 How to handle named arguments in a function
-By 
-Samson Kinyanjui <samsonkinyanjui11@gmail.com>
-Osagie Ohenhen <petosagie@gmail.com>
+
+By Samson Kinyanjui <samsonkinyanjui11@gmail.com> and Osagie Ohenhen <petosagie@gmail.com>
